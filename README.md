@@ -5,3 +5,6 @@
 ![Image](https://github.com/user-attachments/assets/ef49d669-cda9-4aa1-baad-abbd4a226ff6)
 
 버튼 누르면 chorme에 저장된 방문 기록이 **경고 없이**, **전부** 삭제됨
+
+## 아이콘
+<a href="https://www.flaticon.com/kr/free-icons/" title="쓰레기 아이콘">쓰레기 아이콘 제작자: Freepik - Flaticon</a>
