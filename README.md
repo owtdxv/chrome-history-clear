@@ -2,7 +2,6 @@
 클릭 한번으로 모든 방문기록을 삭제하는 확장프로그램
 
 ## 사용
-1. `zip`파일을 다운로드 한 후 **압축해제**
-2. chrome브라우저 주소창에 `chrome://extensions/`입력
-3. 우측 상단의 개발자 모드 활성화
-4. **압축해제한 폴더를** 탐색기에서 브라우저로 드래그하여 업로드
+![Image](https://github.com/user-attachments/assets/ef49d669-cda9-4aa1-baad-abbd4a226ff6)
+
+버튼 누르면 chorme에 저장된 방문 기록이 **경고 없이**, **전부** 삭제됨
